@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/ab/e0/eb/abe0ebd68e3cf4b820f4d0c990db0c73.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 160;
+}
+
+#div-instrucciones{
+    background-color: red;
+    width: 100%;
+}
+
+#instrucciones{
+    background-color: black;
+    color: red;
+}
+
+button{
+    color: green;
+    background-color: blue;
+}
+
+h4{
+    background-color: blue;
+    color: red;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
